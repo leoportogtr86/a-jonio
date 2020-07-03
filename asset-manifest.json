@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a-jonio/static/css/main.6db28dbe.chunk.css",
+    "main.js": "/a-jonio/static/js/main.1f12183b.chunk.js",
+    "main.js.map": "/a-jonio/static/js/main.1f12183b.chunk.js.map",
+    "runtime-main.js": "/a-jonio/static/js/runtime-main.bbc31970.js",
+    "runtime-main.js.map": "/a-jonio/static/js/runtime-main.bbc31970.js.map",
+    "static/js/2.bba9dae4.chunk.js": "/a-jonio/static/js/2.bba9dae4.chunk.js",
+    "static/js/2.bba9dae4.chunk.js.map": "/a-jonio/static/js/2.bba9dae4.chunk.js.map",
+    "index.html": "/a-jonio/index.html",
+    "precache-manifest.2a6e881fca5cdf3fd83917af5b9518bd.js": "/a-jonio/precache-manifest.2a6e881fca5cdf3fd83917af5b9518bd.js",
+    "service-worker.js": "/a-jonio/service-worker.js",
+    "static/css/main.6db28dbe.chunk.css.map": "/a-jonio/static/css/main.6db28dbe.chunk.css.map",
+    "static/js/2.bba9dae4.chunk.js.LICENSE.txt": "/a-jonio/static/js/2.bba9dae4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc31970.js",
+    "static/js/2.bba9dae4.chunk.js",
+    "static/css/main.6db28dbe.chunk.css",
+    "static/js/main.1f12183b.chunk.js"
+  ]
+}
